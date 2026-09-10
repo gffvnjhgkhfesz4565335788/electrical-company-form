@@ -1,0 +1,17 @@
+# compiled output
+.next/
+out/
+
+# dependencies
+node_modules/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# operating systems
+.DS_Store
+Thumbs.db
+
+# env files
+.env*.local
